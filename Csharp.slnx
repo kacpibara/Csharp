@@ -1,0 +1,13 @@
+<Solution>
+  <Project Path="01_Fundamentals/01_Fundamentals.csproj" />
+  <Project Path="02_OOP/02_OOP.csproj" />
+  <Project Path="03_Csharp_2/03_Csharp_2.csproj" />
+  <Project Path="03_Csharp_3/03_Csharp_3.csproj" />
+  <Project Path="03_Csharp_4_5/03_Csharp_4_5.csproj" />
+  <Project Path="04_Exceptions_Files_Serializable/04_Exceptions_Files_Serializable.csproj" />
+  <Project Path="05_Databases/05_Databases.csproj" />
+  <Project Path="06_ASPNetCore_RestAPI/06_ASPNetCore_RestAPI.csproj" />
+  <Project Path="07_Cryptography_Security_JWT/07_Cryptography_Security_JWT.csproj" />
+  <Project Path="08_DesignPatterns_Architecture/08_DesignPatterns_Architecture.csproj" />
+  <Project Path="09_CleanCode_Testing/09_CleanCode_Testing.csproj" />
+</Solution>
